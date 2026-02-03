@@ -62,13 +62,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NQD9040&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NQD9040&layout=compact&theme=tokyonight)
-
-
----
 
 ## 📫 Contact
 - 📧 Email: **quocdoanhngo22@gmail.com**
