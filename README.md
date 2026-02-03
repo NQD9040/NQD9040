@@ -26,5 +26,5 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourname
+- 📧 Email: quocdoanhngo22@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ngo-quoc-doanh-699a03365/
