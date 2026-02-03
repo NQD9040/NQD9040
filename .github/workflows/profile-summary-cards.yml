@@ -9,7 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      # 1️⃣ CỰC KỲ QUAN TRỌNG – checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Generate summary cards
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
