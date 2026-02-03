@@ -1,6 +1,5 @@
-# 👋 Yo, I'm NQD9040
+# 👋 Hello, I'm NQD9040
 
-💻 Software Engineer | 🎮 Unity / Backend Developer
 ![Typing](https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Unity+Game+Developer;Code+Hard+Die+Hard)
 
 
