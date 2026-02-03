@@ -5,63 +5,64 @@
 ---
 
 ## 🧠 About Me
-- Backend Developer with experience in **ASP.NET Web API**
-- Game Developer focusing on **Unity 2D**
-- Interested in **clean architecture, scalable systems, and performance optimization**
-- Comfortable working with both **application development and game development**
+I am a software developer with a strong interest in **backend development** and **game development**.  
+I focus on writing maintainable code, applying clean architecture principles, and continuously improving system performance and scalability.
+
+- Backend Developer using **ASP.NET Web API**
+- Unity Developer focusing on **2D game systems**
+- Interested in **software architecture, system design, and optimization**
+- Comfortable working across multiple programming languages and frameworks
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💬 Programming Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dart&perline=6" />
 
 ---
 
 ### 🧰 Frameworks & Engines
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+<img src="https://skillicons.dev/icons?i=dotnet,unity,flutter&perline=6" />
 
 ---
 
 ### 🗄 Databases & Services
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+<img src="https://skillicons.dev/icons?i=firebase&perline=6" />
+<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 
 ---
 
 ### 🛠 Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio)
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio&perline=6" />
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎮 2D Platformer Game (Unity)
-- Implemented player movement (dash, double jump)
-- Enemy AI with patrol, combat, and death states
-- Inventory and collectible systems
-- Animation state management using Animator
+- Implemented core player mechanics: movement, dash, double jump
+- Designed enemy AI with patrol, combat, and death behaviors
+- Built inventory and collectible systems
+- Managed animations using Unity Animator and state machines
 
 ---
 
 ### 🌐 ASP.NET Web API
-- Designed using Clean Architecture principles
-- Implemented Repository and Unit of Work patterns
-- JWT-based authentication and authorization
-- Unit testing for controllers and services
+- Designed and implemented APIs following **Clean Architecture**
+- Applied Repository and Unit of Work patterns
+- Implemented JWT-based authentication and authorization
+- Wrote unit tests for controllers and service layers
 
 ---
+## 📊 GitHub Overview
+![](./profile-summary-card-output/tokyo-night/0-profile-details.svg)
+![](./profile-summary-card-output/tokyo-night/3-stats.svg)
+![](./profile-summary-card-output/tokyo-night/2-most-commit-language.svg)
 
+
+---
 
 ## 📫 Contact
 - 📧 Email: **quocdoanhngo22@gmail.com**
