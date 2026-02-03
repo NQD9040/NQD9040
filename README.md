@@ -1,1 +1,30 @@
-"# NQD9040" 
+# 👋 Yo, I'm NQD9040
+
+💻 Software Engineer | 🎮 Unity / Backend Developer
+
+
+## 🛠 Tech Stack
+**Languages**
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
+
+**Frameworks & Tools**
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
+
+## 🚀 Featured Projects
+- 🎮 **2D Platformer Game (Unity)**  
+  👉 Dash, Double Jump, Enemy AI, Inventory  
+
+- 🌐 **ASP.NET Web API**  
+  👉 Clean Architecture, Unit Test, JWT Auth  
+
+---
+
+## 📫 Contact
+- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/yourname
