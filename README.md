@@ -1,6 +1,6 @@
 # 👋 Hello, I'm NQD9040
 
-![Typing](https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Unity+Game+Developer;Code+Hard+Die+Hard)
+![Typing](https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Unity+Game+Developer)
 
 
 ## 🛠 Tech Stack
