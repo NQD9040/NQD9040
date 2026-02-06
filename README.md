@@ -20,6 +20,12 @@ I focus on writing maintainable code, applying clean architecture principles, an
 ### 💬 Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dart&perline=6" />
 
+<!-- Auto-detected languages card (bonus) - original icons above are retained -->
+
+**Languages detected on GitHub (auto):**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NQD9040&layout=compact&theme=tokyonight&langs_count=6)
+
 ---
 
 ### 🧰 Frameworks & Engines
@@ -57,10 +63,9 @@ I focus on writing maintainable code, applying clean architecture principles, an
 
 ---
 ## 📊 GitHub Overview
-
-[![](https://raw.githubusercontent.com/NQD9040/NQD9040/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NQD9040/NQD9040/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NQD9040/NQD9040/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](./profile-summary-card-output/tokyo-night/0-profile-details.svg)
+![](./profile-summary-card-output/tokyo-night/3-stats.svg)
+![](./profile-summary-card-output/tokyo-night/2-most-commit-language.svg)
 
 
 ---
