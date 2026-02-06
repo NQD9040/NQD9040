@@ -20,13 +20,6 @@ I focus on writing maintainable code, applying clean architecture principles, an
 ### 💬 Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dart&perline=6" />
 
-<!-- Auto-detected languages card (bonus) - original icons above are retained -->
-
-**Languages detected on GitHub (auto):**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NQD9040&layout=compact&theme=tokyonight&langs_count=6)
-
----
 
 ### 🧰 Frameworks & Engines
 <img src="https://skillicons.dev/icons?i=dotnet,unity,flutter&perline=6" />
