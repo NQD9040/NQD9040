@@ -56,9 +56,9 @@ I focus on writing maintainable code, applying clean architecture principles, an
 
 ---
 ## 📊 GitHub Overview
-![](./profile-summary-card-output/tokyo-night/0-profile-details.svg)
-![](./profile-summary-card-output/tokyo-night/3-stats.svg)
-![](./profile-summary-card-output/tokyo-night/2-most-commit-language.svg)
+[![](https://raw.githubusercontent.com/NQD9040/NQD9040/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/NQD9040/NQD9040/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/NQD9040/NQD9040/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ---
